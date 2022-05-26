@@ -1,4 +1,8 @@
 #!/bin/bash
+echo " "
+echo "<< Multiplication Tables >>"
+echo " "
+
 for i in {2..9}
 do
 echo "$i times table"
